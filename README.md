@@ -83,6 +83,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/devznsh/devznsh/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/devznsh/devznsh/blob/output/github-snake-dark.svg)
 ###
